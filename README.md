@@ -10,7 +10,7 @@
 
 <font color=blue>效果如下:</font>(Here is a gif) :point_down::relaxed:
 
-<img src="https://github.com/ZHOU-HN/Automatic-Minesweeper/blob/main/scanMine.gif" width="700px">
+<img src="https://github.com/ZHOU-HN/Automatic-Minesweeper/blob/main/scanMine.gif" width="600px">
 
 ## 待优化
 
