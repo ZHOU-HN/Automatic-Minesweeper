@@ -12,8 +12,6 @@
 
 ![image](https://github.com/ZHOU-HN/Automatic-Minesweeper/blob/main/scanMine.gif)
 
-<img src="https://github.com/ZHOU-HN/Automatic-Minesweeper/blob/main/scanMine.gif" style="zoom:50%;" />
-
 ## 待优化
 
 + 可以加入多线程
