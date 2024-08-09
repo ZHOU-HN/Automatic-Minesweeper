@@ -8,9 +8,11 @@
 
 [扫雷游戏的链接URL](https://saolei.pages.dev/) :point_left:
 
-<font color=blue>效果如下:</font>(Here is a gif) ::point_down::relaxed:
+<font color=blue>效果如下:</font>(Here is a gif) :point_down::relaxed:
 
 ![image](https://github.com/ZHOU-HN/Automatic-Minesweeper/blob/main/scanMine.gif)
+
+<img src="https://github.com/ZHOU-HN/Automatic-Minesweeper/blob/main/scanMine.gif" style="zoom:50%;" />
 
 ## 待优化
 
